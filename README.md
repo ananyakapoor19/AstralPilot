@@ -1,2 +1,2 @@
-# AstralPilot
-A Brain-Controlled Drone
+# AstralPilot - A Brain Controlled Drone
+
