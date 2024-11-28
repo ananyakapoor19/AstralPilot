@@ -19,3 +19,5 @@ Moreover, the system exhibits negligible lag, ensuring real-time responsiveness 
 mental commands. "Astral Pilot" not only pushes the boundaries of human-machine collaboration
 but also lays the foundation for future advancements in brain-machine interfaces, promising a
 seamless and efficient control mechanism for drones and potentially other technologies.
+
+Video Demo: https://drive.google.com/file/d/1HvRwY7E4jqrQdRCq_EARP1rSoc4Ksa2K/view?usp=sharing
